@@ -1,0 +1,12 @@
+{
+  id: question.id,
+  description: question.description,
+  category: question.category,
+  difficulty_level: question.difficulty_level,
+  answer_key: question.answer_key,
+  answer_a: question.answer_a,
+  answer_b: question.answer_b,
+  answer_c: question.answer_c,
+  answer_d: question.answer_d,
+  true_false: question.true_false
+}

@@ -7,11 +7,12 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
    
-  Question.create(description: category: difficulty_level: answer_key: answer_a: answer_b: answer_c: answer_d: true_false:)
-  Question.create(description: category: difficulty_level: answer_key: answer_a: answer_b: answer_c: answer_d: true_false:)
-  Question.create(description: category: difficulty_level: answer_key: answer_a: answer_b: answer_c: answer_d: true_false:)
-  Question.create(description: category: difficulty_level: answer_key: answer_a: answer_b: answer_c: answer_d: true_false:)
-  Question.create(description: category: difficulty_level: answer_key: answer_a: answer_b: answer_c: answer_d: true_false:) 
+  # Question.create(description:"True or False: When generating a model, the model name is singular.", category: "Rails",difficulty_level:1, answer_key:"true", answer_a:"", answer_b:"", answer_c:"", answer_d:"", true_false:true)
+
+  # Question.create(description:"True or False: When generating a controller, the controller name after 'api/' is singular.", category: "Rails", difficulty_level:1, answer_key:"false", answer_a:"", answer_b:"", answer_c:"", answer_d:"", true_false:false)
+
+
+ 
 
 
 
